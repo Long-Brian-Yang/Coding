@@ -5,7 +5,7 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+    def levelOrderBottom(self, root: Optional[TreeNode]) -> List[List[int]]:
         res = []
         if not root:
             return res
@@ -21,4 +21,4 @@ class Solution:
                 if node.right:
                     queue.append(node.right)
             res.append(level)
-        return res
+        return res[::-1]
