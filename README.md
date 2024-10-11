@@ -10,5 +10,6 @@
 7. Binary Tree
 8. Backtracking Algorithm
 9. Greedy Algorithm
-10.DP(Dynamic Programming)
-11.Monotonic Stack
+10. DP(Dynamic Programming)
+11. Monotonic Stack
+12. Graph Theory
