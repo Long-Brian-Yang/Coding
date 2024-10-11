@@ -8,3 +8,4 @@
 5. Two Pointers Tech
 6. Stack and Queue
 7. Binary Tree
+8. Backtracking Algorithm
