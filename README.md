@@ -7,3 +7,4 @@
 4. Strings
 5. Two Pointers Tech
 6. Stack and Queue
+7. Binary Tree
