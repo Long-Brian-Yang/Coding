@@ -9,3 +9,4 @@
 6. Stack and Queue
 7. Binary Tree
 8. Backtracking Algorithm
+9. Greedy Algorithm
