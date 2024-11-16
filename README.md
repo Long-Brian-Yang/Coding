@@ -1,5 +1,3 @@
-# Coding
-
 ## About Leetcode
 
 1. Arrays
@@ -14,5 +12,3 @@
 10. DP(Dynamic Programming)
 11. Monotonic Stack
 12. Graph Theory
-
-## About AtCoder
