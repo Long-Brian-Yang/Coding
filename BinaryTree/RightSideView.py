@@ -18,6 +18,6 @@ class Solution:
             
             dfs(root.right, level + 1)
             dfs(root.left, level + 1)
-        
+
         dfs(root, 0)
         return res

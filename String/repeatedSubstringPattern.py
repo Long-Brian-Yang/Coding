@@ -18,7 +18,7 @@ class Solution:
                 j += 1
             nxt[i] = j
         return nxt
-    
+
 
 solution = Solution()
 
